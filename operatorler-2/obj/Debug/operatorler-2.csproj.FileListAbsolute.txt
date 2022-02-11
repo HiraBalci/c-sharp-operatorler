@@ -1,0 +1,8 @@
+C:\Users\berke\Desktop\c#\operatorler-2\operatorler-2\bin\Debug\operatorler-2.exe.config
+C:\Users\berke\Desktop\c#\operatorler-2\operatorler-2\bin\Debug\operatorler-2.exe
+C:\Users\berke\Desktop\c#\operatorler-2\operatorler-2\bin\Debug\operatorler-2.pdb
+C:\Users\berke\Desktop\c#\operatorler-2\operatorler-2\obj\Debug\operatorler-2.csproj.AssemblyReference.cache
+C:\Users\berke\Desktop\c#\operatorler-2\operatorler-2\obj\Debug\operatorler-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\berke\Desktop\c#\operatorler-2\operatorler-2\obj\Debug\operatorler-2.csproj.CoreCompileInputs.cache
+C:\Users\berke\Desktop\c#\operatorler-2\operatorler-2\obj\Debug\operatorler-2.exe
+C:\Users\berke\Desktop\c#\operatorler-2\operatorler-2\obj\Debug\operatorler-2.pdb
